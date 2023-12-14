@@ -1,0 +1,6 @@
+org\acme\foodpackaging\domain\Job.class
+org\acme\foodpackaging\domain\Product.class
+org\acme\foodpackaging\domain\solver\StartDateTimeUpdatingVariableListener.class
+org\acme\foodpackaging\bootstrap\DemoDataGenerator.class
+org\acme\foodpackaging\domain\Line.class
+org\acme\foodpackaging\domain\WorkCalendar.class
